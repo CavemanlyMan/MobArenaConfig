@@ -403,7 +403,7 @@ arenas:
         boss3:
           type: boss
           wave: 30
-          monster: irongolem
+          monster: witch
           health: medium
           abilities: arrows, shuffle-positions, disorient-distant, throw-nearby
           reward: '42'
